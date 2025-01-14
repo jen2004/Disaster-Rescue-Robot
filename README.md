@@ -8,7 +8,7 @@ For the complete project requirements, please refer to the “Task 2 Overview.pd
 
 For my complete project report, refer to “Task 2 Report.pdf”.
 
-Here is a GIF of my chatbot in use:
+Here is a GIF of LifeBot in use. The person sensor turns from blue to green when a human (red cylinder) is detected.
 
 ![LifeBot demonstration](./1.gif)
 
